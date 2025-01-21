@@ -12,7 +12,7 @@ body {
 }
 
 .header {
-  background: rgba(255, 111, 97, 0.8);
+  background: rgba(199, 17, 0, 0.8);
   color: white;
   padding: 1.5rem;
   text-align: center;
@@ -50,7 +50,7 @@ body {
 
 .title-container h2 {
   font-size: 2.5rem;
-  color: #ff6f61;
+  color: #cd1100;
 }
 
 .spinning-image {
