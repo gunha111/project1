@@ -12,7 +12,7 @@ body {
 }
 
 .header {
-  background: linear-gradient(to right, #ff6f61, #ffa07a);
+  background: linear-gradient(to right, #4e0802, #ec0303);
   color: white;
   padding: 1.5rem;
   text-align: center;
@@ -42,7 +42,7 @@ body {
 
 .heading h2 {
   font-size: 2.5rem;
-  color: #ff6f61;
+  color: #f22310;
 }
 
 .spinning-image {
